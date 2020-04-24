@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/jbkwizera/algs4cs/.metadata/.plugins/org.eclipse.jdt.core
+3965540373.index

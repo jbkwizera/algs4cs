@@ -1,0 +1,7 @@
+
+public class Scratch {
+	public static void main(String[] args) {
+		System.out.println("here we go");
+		StdOut.println("never ever use eclipse");
+	}
+}
